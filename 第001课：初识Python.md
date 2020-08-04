@@ -1,4 +1,4 @@
-## 第001课：初识Python
+## 第001讲：Python初印象
 
 ### Python简介
 
